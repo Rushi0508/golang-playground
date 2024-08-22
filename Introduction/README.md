@@ -6,7 +6,7 @@
 - Strong and statitically typed programming language.
 - Developed by Google, so better community support.
 - Easy & Straight-forwared learning
-  > Go = C + Strings + Garbage Collection + Concurrency
+> Go = C + Strings + Garbage Collection + Concurrency
 
 ### Why Google created GO Lang?
 
