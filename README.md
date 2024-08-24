@@ -12,4 +12,7 @@ Welcome to the Go Language Modules repository! This repository contains a collec
    - [Companies using GO](./Introduction/README.md#companies-using-go)
 
 2. [Install Go Lang](./Install%20Go/README.md#installation)
+
    - [Hello World in Go](./Install%20Go/README.md#first-go-program)
+
+3. [Packages and Imports in Go](./Packages%20and%20Imports/README.md)
