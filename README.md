@@ -27,3 +27,8 @@ Welcome to the Go Language Modules repository! This repository contains a collec
    - [Constants](./Variables/README.md#constants)
    - [Public Variables](./Variables/README.md#public-variables)
    - [Private Variables](./Variables/README.md#private-variables)
+
+5. [Input and Output Operations](./05-IO%20Operations/README.md)
+
+   - [How to output?](./05-IO%20Operations/README.md#how-to-output)
+   - [How to input?](./05-IO%20Operations/README.md#how-to-input)
