@@ -165,5 +165,3 @@ reader := bufio.NewReader(os.Stdin)
 // The second value (which is ignored here with _) is an error value that is returned by ReadString.
 name, _ := reader.ReadString('\n')
 ```
-
-Here `
