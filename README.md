@@ -31,5 +31,6 @@ Welcome to the Go Language Modules repository! This repository contains a collec
 5. [Input and Output Operations](./05-IO%20Operations/README.md)
 
    - [How to output?](./05-IO%20Operations/README.md#how-to-output)
-     
    - [How to input?](./05-IO%20Operations/README.md#how-to-input)
+
+6. [Functions in Go Lang](./06-Functions/README.md)
