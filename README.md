@@ -43,3 +43,5 @@ Welcome to the Go Language Modules repository! This repository contains a collec
    - [Arrays](./08-Arrays%20and%20Slices/README.md#arrays)
 
    - [Slices](./08-Arrays%20and%20Slices/README.md#slices)
+
+9. [Conditions in Go (if-else and switch)](./09-Conditions%28if-else%20and%20switch%29/README.md)
