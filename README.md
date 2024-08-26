@@ -36,7 +36,7 @@ Welcome to the Go Language Modules repository! This repository contains a collec
 
 6. [Functions in Go Lang](./06-Functions/README.md)
 
-7. [Error handling and `_` Keyword](./07-Error%20Handling%20and%20_%20Keyword/README.md)
+7. [Error handling and underscore (\_) Keyword](./07-Error%20Handling%20and%20_%20Keyword/README.md)
 
 8. [Arrays & Slices in Go](./08-Arrays%20and%20Slices/README.md)
 
