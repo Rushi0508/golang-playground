@@ -51,3 +51,5 @@ Welcome to the Go Language Modules repository! This repository contains a collec
 11. [Maps in Go](./11-Maps/README.md)
 
 12. [Structs in Go](./12-Structs/README.md)
+
+13. [Pointers in Go](./13-Pointers/README.md)
