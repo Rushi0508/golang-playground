@@ -57,3 +57,11 @@ Welcome to the Go Language Modules repository! This repository contains a collec
 14. [Strings Package in Go](./14-Strings%20Package/README.md)
 
 15. [Time Package in Go](./15-Time%20Package/README.md)
+
+16. [Defer, Panic and Recover](./16-Defer%2C%20Panic%20and%20Recover/README.md)
+
+    - [Defer](./16-Defer,%20Panic%20and%20Recover/README.md#defer)
+
+    - [Panic](./16-Defer,%20Panic%20and%20Recover/README.md#panic)
+
+    - [Recover](./16-Defer,%20Panic%20and%20Recover/README.md#recover)
