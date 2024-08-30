@@ -55,3 +55,5 @@ Welcome to the Go Language Modules repository! This repository contains a collec
 13. [Pointers in Go](./13-Pointers/README.md)
 
 14. [Strings Package in Go](./14-Strings%20Package/README.md)
+
+15. [Time Package in Go](./15-Time%20Package/README.md)
